@@ -3,3 +3,5 @@ mathplotlib
 numpy
 seaborn
 scikit-learn
+xgboost
+scipy
